@@ -1,7 +1,7 @@
-Today's Dental Assignment:
+# Today's Dental Assignment:
 A modern React-based single-page web application for Today's Dental Clinic, featuring essential pages like Home, About Us, Services, Contact Us, and an FAQ section.
 
- Features:
+# Features:
 - ⚛️ Built with React JS
 - 📄 SPA structure with multiple routed pages
 - 🎨 Custom CSS styling
@@ -10,7 +10,7 @@ A modern React-based single-page web application for Today's Dental Clinic, feat
 - 📬 Contact form design (frontend only)
 - 🧩 Modular code with reusable components
 
-Pages:
+# Pages:
 - Home: Overview and intro to the clinic
 - About Us: Information about the dental clinic
 - Services: Lists all dental services with descriptions
@@ -18,7 +18,7 @@ Pages:
 - FAQ: Expandable/collapsible list of common questions
 - Footer : Display Clinic details and links
 
-Project Structure:
+# Project Structure:
 Todays-Dental--Assignment/
 ├── public/
 ├── src/
@@ -38,13 +38,13 @@ Todays-Dental--Assignment/
 ├── package.json
 └── README.md
 
-Tech Stack:
+# Tech Stack:
 - React.js
 - CSS Styling
 - JavaScript (ES6+)
 - React Router DOM
 
-How to Run:
+# How to Run:
 # Clone the repo
 git clone https://github.com/Brahmamk3/Todays-Dental--Assignment.git
 
@@ -56,3 +56,6 @@ npm install
 
 # Run the project
 npm start
+
+# Live Demo
+View Live Site: https://fantastic-paletas-eca5a5.netlify.app/
