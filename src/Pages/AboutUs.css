@@ -1,0 +1,85 @@
+/* Reset default margins and paddings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f8fc;
+  color: #333;
+  line-height: 1.6;
+}
+
+.aboutus {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.aboutus h1 {
+  text-align: center;
+  color: #2a4365;
+  font-size: 36px;
+  margin-bottom: 40px;
+  border-bottom: 4px solid #63b3ed;
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+section {
+  margin-bottom: 50px;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #2c5282;
+  font-size: 24px;
+  margin-bottom: 15px;
+  border-left: 5px solid #63b3ed;
+  padding-left: 10px;
+}
+
+p, dd {
+  font-size: 16px;
+  color: #444;
+  margin-bottom: 15px;
+}
+
+dt {
+  font-weight: bold;
+  color: #2a4365;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+dl {
+  padding-left: 15px;
+}
+
+@media (max-width: 768px) {
+  .aboutus {
+    padding: 20px 10px;
+  }
+
+  section {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 28px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  p, dd {
+    font-size: 15px;
+  }
+}
