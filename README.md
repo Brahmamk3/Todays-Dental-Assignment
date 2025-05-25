@@ -19,7 +19,7 @@ A modern React-based single-page web application for Today's Dental Clinic, feat
 - Footer : Display Clinic details and links
 
 # Project Structure:
-<pr>Todays-Dental--Assignment/
+<pr>```Todays-Dental--Assignment/
 ├── public/
 ├── src/
 │ ├── Components/
@@ -36,7 +36,7 @@ A modern React-based single-page web application for Today's Dental Clinic, feat
 │ ├── App.js
 │ └── index.js
 ├── package.json
-└── README.md
+└── README.md```
 </pre>
 # Tech Stack:
 - React.js
